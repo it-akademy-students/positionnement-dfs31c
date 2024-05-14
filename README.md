@@ -131,6 +131,28 @@ Pour cela, toujours dans votre "fork", éditez le fichier REFERENTIEL.md, prenez
 
 ---
 
+### UNIDAYS & SHEER ID
+
+Quand on est étudiant ou stagiaire, il est souvent difficile de boucler son budget. GRATUITS et simples
+d'utilisation, UNiDAYS et SHEER ID donnent accès aux meilleures réductions étudiantes en ligne et en
+magasin.
+
+Grâce au compte d’établissement @it-students.fr, reconnu par UNIDAYS comme par SHEER ID, chaque
+stagiaire peut s’inscrire et bénéficier de nombreuses réductions sur toutes les meilleures marques mode,
+technologie et lifestyle.
+
+**Attention : Il est possible de temps en temps que la plateforme demande de revérifier l’inscription du
+stagiaire. Il est nécessaire dans ce cas d’uploader une capture d’écran de l’attestation d’entrée en
+formation fournie en début de cursus.**
+
+Adresses des services :
+
+๏ https://www.myunidays.com/FR/fr-FR
+
+๏ https://www.sheerid.com/fr/shoppers/studentdeals/
+
+---
+
 ### Durée d’octroi des comptes d’établissement
 
 Conformément à la politique de nos partenaires, l’accès aux offres est limitée à la période d’inscription
