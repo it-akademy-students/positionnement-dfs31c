@@ -14,18 +14,18 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 #### Section 1: Fondamentaux de la Programmation
 1. Structures de données (listes, tableaux, dictionnaires, etc.)
    - [ ] 1
-   - [ ] 2
+   - [x] 2
    - [ ] 3
    - [ ] 4
    - [ ] 5
 2. Algorithmes de base (tri, recherche, etc.)
    - [ ] 1
-   - [ ] 2
+   - [x] 2
    - [ ] 3
    - [ ] 4
    - [ ] 5
 3. Programmation orientée objet
-   - [ ] 1
+   - [x] 1
    - [ ] 2
    - [ ] 3
    - [ ] 4
@@ -35,37 +35,37 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 4. HTML/CSS
    - [ ] 1
    - [ ] 2
-   - [ ] 3
+   - [x] 3
    - [ ] 4
    - [ ] 5
 5. JavaScript
    - [ ] 1
    - [ ] 2
-   - [ ] 3
+   - [x] 3
    - [ ] 4
    - [ ] 5
 6. Frameworks (React, Angular, Vue.js)
    - [ ] 1
    - [ ] 2
-   - [ ] 3
+   - [x] 3
    - [ ] 4
    - [ ] 5
 
 #### Section 3: Back-end
 7. Langages (Python, Ruby, Java, PHP)
    - [ ] 1
-   - [ ] 2
+   - [x] 2
    - [ ] 3
    - [ ] 4
    - [ ] 5
 8. Frameworks back-end (Django, Rails, Spring, Laravel)
-   - [ ] 1
+   - [x] 1
    - [ ] 2
    - [ ] 3
    - [ ] 4
    - [ ] 5
 9. Principes RESTful et API
-   - [ ] 1
+   - [x] 1
    - [ ] 2
    - [ ] 3
    - [ ] 4
@@ -73,13 +73,13 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 
 #### Section 4: Bases de Données
 10. Bases de données relationnelles (MySQL, PostgreSQL)
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
 11. Bases de données NoSQL (MongoDB, Redis)
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
@@ -89,17 +89,17 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 12. Gestion de versions (Git)
     - [ ] 1
     - [ ] 2
-    - [ ] 3
+    - [x] 3
     - [ ] 4
     - [ ] 5
 13. CI/CD (Intégration et déploiement continus)
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
 14. Conteneurs (Docker) et orchestrateurs (Kubernetes)
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
@@ -107,7 +107,7 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 
 #### Section 6: Sécurité Web
 15. Sécurité des applications web
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
@@ -117,33 +117,33 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 16. Travail en équipe
     - [ ] 1
     - [ ] 2
-    - [ ] 3
+    - [x] 3
     - [ ] 4
     - [ ] 5
 17. Gestion du temps
     - [ ] 1
     - [ ] 2
-    - [ ] 3
+    - [x] 3
     - [ ] 4
     - [ ] 5
 18. Communication
 
  technique
     - [ ] 1
-    - [ ] 2
+    - [x] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
 
 #### Section 8: Serveurs et Systèmes d'Exploitation
 19. Administration de serveurs Linux
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
 20. Utilisation et configuration de la stack LAMP (Linux, Apache, MySQL, PHP/Python/Perl)
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
@@ -151,13 +151,13 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 
 #### Section 9: Performance et Caching
 21. Mise en œuvre de systèmes de cache (par exemple, Memcached, Redis)
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
 22. Optimisation de performance pour les applications web
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
@@ -165,14 +165,14 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 
 #### Section 10: Architecture Logicielle
 23. Conception d’architecture logicielle en mode web (microservices, monolithiques, serverless)
-    - [ ] 1
+    - [x] 1
     - [ ] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
 24. Patterns de conception (Design Patterns) et meilleures pratiques d'architecture
     - [ ] 1
-    - [ ] 2
+    - [x] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
